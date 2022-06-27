@@ -11,7 +11,13 @@ core class manipulation  -> apache common langs // commons-lang3
 unit testing -> vintage // junit-vintage-engine
 
 
-duplicate linkleri önlemek için hashing kullanılmış ve aynı anda eklenen kayıtlar için de increasing number dan yararlanılmıştır. 
+--> duplicate linkleri önlemek için hashing kullanılmıştır.
+
+Sorun ? 
+
+Aynı anda eklenen kayıtlar için aynı şifreleme yapılabilr bunun için  de increasing number dan yararlanılablir?
+Ancak increasin number da çok büyük boyutlara ulaşabilir. Daha iyi çözüm gerekmektedir.
+
 
 Ekleneceker ;
 
