@@ -14,8 +14,12 @@ Ekleneceker ;
 
 -> User Login & Registiration 
 -> User Delete & Create shotened url 
+-> Unit Testing
+
+
 
 Aktif Kullanım senaryosu ;
+
 postman kullanılarak localhost:8080/generate/ adresine     
 
 {
