@@ -10,6 +10,9 @@ core class manipulation  -> apache common langs // commons-lang3
 
 unit testing -> vintage // junit-vintage-engine
 
+
+duplicate linkleri önlemek için hashing kullanılmış ve aynı anda eklenen kayıtlar için de increasing number dan yararlanılmıştır. 
+
 Ekleneceker ;
 
 -> User Login & Registiration 
